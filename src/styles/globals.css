@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+
+:root {
+  --primaryBgColor: green;
+  --primaryFont: "Lato", sans-serif;
+  --secondaryFont: "Roboto", "sans-serif";
+}
+
+ul.show {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
